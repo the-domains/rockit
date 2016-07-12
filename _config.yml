@@ -1,0 +1,14 @@
+layout_spectrum: 0.7448763318825513
+typography_spectrum: 0.2515438187401742
+color:
+  brandStrength: 0.49164974922314286
+  lightness: 0.30565354065038264
+  saturation: 0.9831861308775842
+  rhythmicContrast: 0.9062898072879761
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: rockit
