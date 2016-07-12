@@ -6,9 +6,9 @@ color:
   saturation: 0.9831861308775842
   rhythmicContrast: 0.9062898072879761
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
 name: rockit
